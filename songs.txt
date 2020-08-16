@@ -1,0 +1,103 @@
+// songs.txt
+
+:author: Tom Swan
+:email: <tom@tomswan.com>
+:description: Web sit Song page
+:keywords: CLASSICAL JAZZ POP GUITAR MUSIC TOMSWAN.COM 
+:copyright: © 2020 by Tom Swan
+:cssdir: https://www.tomswan.com/css
+:favicon: favicon.png
+:docinfo: shared
+:icons: font
+:idprefix:
+:idseparator: -
+:imagesdir: ../tomswan/image
+ifdef::backend-html5[]
+:imagesdir: /image
+endif::[]
+:linkcss:
+:nofooter:
+:sectanchors:
+:stylesdir: css
+:stylesheet: asciidoctor.css
+
+image::banner.png[HOME, link=/]
+
+- - -
+
+ifdef::backend-html5[]
+*`PDF DOWNLOAD`*: link:songs.pdf[Open]
+endif::[]
+
+[.text-center]
+== *Songs and Links*
+
+- - -
+
+[caption=]
+[cols="1*"]
+|=== 
+
+^s| [big]#All My Loving# 
+
+^s| [big]#Amazing Grace#
+image:button-video.png[Video,link=https://youtu.be/33SOQJ5O2Vo]
+
+^s| [big]#And I Love Her#
+^s| [big]#Bach Prelude in Am#
+^s| [big]#Bach Prelude No. 1#
+^s| [big]#Back in the U.S.S.R.#
+^s| [big]#Birthday#
+^s| [big]#Blackbird#
+^s| [big]#Brown-Eyed Girl#
+^s| [big]#Can't Buy Me Love#
+^s| [big]#Classical Gas#
+^s| [big]#Dancing Queen#
+^s| [big]#Day Tripper#
+^s| [big]#Eight Days a Week#
+^s| [big]#Freight Train#
+^s| [big]#From Me to You#
+^s| [big]#Get Back#
+
+^s| [big]#Greensleeves#
+image:button-video.png[Video,link=https://youtu.be/Q2%2D%2DYzU3zFc]
+
+^s| [big]#Happy Birthday#
+image:button-audio.png[Audio,link=https://soundcloud.com/tomswan/happy-birthday-audio-20200815] 
+image:button-chart.png[Chart,link=https://www.tomswan.com/pub/why-i-love-lilypond/image/happy-birthday.png] 
+
+^s| [big]#Here Comes the Sun (instr)#
+image:button-video.png[Video,link=https://youtu.be/C_HNXafYz6k]
+
+^s| [big]#Here Comes the Sun (vocal)#
+^s| [big]#Hide Your Love Away#
+^s| [big]#Honeybee (original)#
+
+^s| [big]#Hooked on a Feeling#
+image:button-video.png[Video,link=https://youtu.be/ZJ5DLYR-91s]
+
+^s| [big]#In Your Own Sweet Way#
+image:button-video.png[Video,link=https://youtu.be/b8tAcOrlgts]
+
+^s| [big]#I Feel Fine#
+
+^s| [big]#I Will#
+image:button-band.png[Band,link=/audio/i-will.SGU] 
+image:button-track.png[Track,link=https://soundcloud.com/tomswan/i-will-render] 
+
+^s| [big]#Leo Brouwer Etude No. 1#
+^s| [big]#Leo Brouwer Etude No. 6#
+^s| [big]#Love Me Do#
+^s| [big]#Michelle#
+^s| [big]#Romance de Amor#
+^s| [big]#Roundabout#
+^s| [big]#Take it Easy#
+^s| [big]#Two of Us#
+^s| [big]#You Are My Sunshine#
+|===
+
+ifdef::backend-html5[]
++++
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57b23734d75ce630"></script>
++++
+endif::[]
