@@ -1,0 +1,54 @@
+// NOTES.txt 
+
+== Notes For: songs Folder
+
+This is the project folder for the site Songs page at tomswan.com/songs.
+
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== TO DO
+
+- [ ] make Band links to ZIP file 
+    -- BIB files procedures:
+    -- make ZIP file from i-will.SGU or other(s)
+    -- name ZIP file e.g. i-will-BAND-20200816.zip
+    -- ftp ZIP to tomswan/download subfolder
+    -- do that for i-will.SGU and change Songs link
+    -- delete online and localhost audio folder and contents
+- [ ] link to MyHub repo
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== HOW TO USE
+
+* Edit songs.txt using existing entries as templates for new ones
+
+* F9 to build
+
+* FileZilla build to localhost and online tomswan/songs
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== Sun 16 Aug 2020 09:44:40 PM EDT
+
+- [√] disable song refs in Documents
+- [√] copy songs.pdf to shared
+- [√] update web site data folders (image, css)
+    -- online and localhost
+- [√] revise update-songs script
+    -- obsolete: use FileZilla instead (more secure, just as fast)
+- [√] test Lyrics button ref
+- [√] stop cleaning image and css folders
+
+// -----------------------------------------------------------------
+
+=== Sun 16 Aug 2020 01:44:01 PM EDT
+
+Moved from Dropbox/Documents songs.txt solo file to songs project folder.

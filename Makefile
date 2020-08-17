@@ -25,5 +25,3 @@ clean:
 	@echo "! REMOVING BUILD TARGETS "$*
 	rm -v -f ${targets}
 	rm -v -f $(blddir)/*.*
-#	rm -v -f $(blddir)/css/*.*
-#	rm -v -f $(blddir)/image/*.*

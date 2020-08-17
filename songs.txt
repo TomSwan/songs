@@ -2,7 +2,7 @@
 
 :author: Tom Swan
 :email: <tom@tomswan.com>
-:description: Web sit Song page
+:description: Web site Song page
 :keywords: CLASSICAL JAZZ POP GUITAR MUSIC TOMSWAN.COM 
 :copyright: © 2020 by Tom Swan
 :cssdir: https://www.tomswan.com/css
@@ -32,6 +32,14 @@ endif::[]
 [.text-center]
 == *Songs and Links*
 
+image:button-audio.png[Video]-SoundCloud
+image:button-band.png[Band]-Band-in-a-Box
+image:button-chart.png[Chart]-Score
+image:button-lesson.png[Lesson]-Lesson video
+image:button-lyrics.png[Lyrics]-AZLyrics
+image:button-track.png[Track]-Backing track
+image:button-video.png[Video]-Performance video
+
 - - -
 
 [caption=]
@@ -39,25 +47,42 @@ endif::[]
 |=== 
 
 ^s| [big]#All My Loving# 
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/allmyloving.html] 
 
 ^s| [big]#Amazing Grace#
 image:button-video.png[Video,link=https://youtu.be/33SOQJ5O2Vo]
 
 ^s| [big]#And I Love Her#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/andiloveher.html] 
+
 ^s| [big]#Bach Prelude in Am#
 ^s| [big]#Bach Prelude No. 1#
+
 ^s| [big]#Back in the U.S.S.R.#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/backintheussr.html] 
+
 ^s| [big]#Birthday#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/birthday.html] 
+
 ^s| [big]#Blackbird#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/blackbird.html] 
+
 ^s| [big]#Brown-Eyed Girl#
-^s| [big]#Can't Buy Me Love#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/vanmorrison/browneyedgirl.html] 
+
 ^s| [big]#Classical Gas#
+
 ^s| [big]#Dancing Queen#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/abba/dancingqueen.html] 
+
 ^s| [big]#Day Tripper#
-^s| [big]#Eight Days a Week#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/daytripper.html] 
+
 ^s| [big]#Freight Train#
-^s| [big]#From Me to You#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/joanbaez/freighttrain.html] 
+
 ^s| [big]#Get Back#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/getback.html] 
 
 ^s| [big]#Greensleeves#
 image:button-video.png[Video,link=https://youtu.be/Q2%2D%2DYzU3zFc]
@@ -70,7 +95,11 @@ image:button-chart.png[Chart,link=https://www.tomswan.com/pub/why-i-love-lilypon
 image:button-video.png[Video,link=https://youtu.be/C_HNXafYz6k]
 
 ^s| [big]#Here Comes the Sun (vocal)#
-^s| [big]#Hide Your Love Away#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/herecomesthesun.html] 
+
+^s| [big]#You've Got to Hide Your Love Away#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/youvegottohideyourloveaway.html] 
+
 ^s| [big]#Honeybee (original)#
 
 ^s| [big]#Hooked on a Feeling#
@@ -80,20 +109,36 @@ image:button-video.png[Video,link=https://youtu.be/ZJ5DLYR-91s]
 image:button-video.png[Video,link=https://youtu.be/b8tAcOrlgts]
 
 ^s| [big]#I Feel Fine#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/ifeelfine.html] 
 
 ^s| [big]#I Will#
 image:button-band.png[Band,link=/audio/i-will.SGU] 
 image:button-track.png[Track,link=https://soundcloud.com/tomswan/i-will-render] 
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/iwill.html] 
 
 ^s| [big]#Leo Brouwer Etude No. 1#
 ^s| [big]#Leo Brouwer Etude No. 6#
+
 ^s| [big]#Love Me Do#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/lovemedo.html]
+
 ^s| [big]#Michelle#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/michelle.html]
+
 ^s| [big]#Romance de Amor#
+
 ^s| [big]#Roundabout#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/yes/roundabout.html]
+
 ^s| [big]#Take it Easy#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/eagles/takeiteasy-1972.html]
+
 ^s| [big]#Two of Us#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/twoofus.html]
+
 ^s| [big]#You Are My Sunshine#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/geneautry/youaremysunshine.html]
+
 |===
 
 ifdef::backend-html5[]
