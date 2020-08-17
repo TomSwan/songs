@@ -36,6 +36,7 @@ image:button-audio.png[Video]-SoundCloud
 image:button-band.png[Band]-Band-in-a-Box
 image:button-chart.png[Chart]-Score
 image:button-lesson.png[Lesson]-Lesson video
+
 image:button-lyrics.png[Lyrics]-AZLyrics
 image:button-track.png[Track]-Backing track
 image:button-video.png[Video]-Performance video
@@ -112,7 +113,7 @@ image:button-video.png[Video,link=https://youtu.be/b8tAcOrlgts]
 image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/ifeelfine.html] 
 
 ^s| [big]#I Will#
-image:button-band.png[Band,link=/audio/i-will.SGU] 
+image:button-band.png[Band,link=/downloads/i-will.zip] 
 image:button-track.png[Track,link=https://soundcloud.com/tomswan/i-will-render] 
 image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/iwill.html] 
 
