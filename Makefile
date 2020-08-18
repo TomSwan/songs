@@ -6,11 +6,6 @@ targets= $(blddir)/songs.html
 
 all: ${targets}
     
-# % in the rule == $* in the action
-# $< is the first prerequisite
-# $@ is the target that triggered the rule
-# % is also the target but used _in_ the rule
-
 $(blddir)/songs.html : songs.txt
 	@echo "! MAKING songs"
 	asciidoctor songs.txt

@@ -2,36 +2,31 @@
 
 == Notes For: songs Folder
 
-This is the project folder for the site Songs page at tomswan.com/songs.
-
-
-- - -
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-=== TO DO
-
-- [√] make Band links to ZIP file 
-    -- BIB files procedures:
-    -- make ZIP file from i-will.SGU or other(s)
-    -- ftp ZIP to tomswan/download subfolder
-    -- do that for i-will.SGU and change Songs link
-    -- delete online and localhost BIB file; retain audio folder
-- [√] link to MyHub repo
+This is the project folder for the site Songs page at tomswan.com/songs. Notes are mostly temporary, but some milestones are saved by date at end of file.
 
 - - -
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+== TO DO
+
+- [ ] 
+
+- - -
+
+// -----------------------------------------------------------------
+
 === HOW TO USE
 
 * Edit songs.txt using existing entries as templates for new ones
 
-* F9 to build
+* F9 (make) to build
 
-* FileZilla build to localhost and online tomswan/songs
+* FileZilla build to localhost and to online tomswan/songs
 
 - - -
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// -----------------------------------------------------------------
+
 === HOW TO CREATE AND LINK TO MYHUB REPO
 
 ----
@@ -61,6 +56,21 @@ $ git push
 ----
 
 - - -
+
+// -----------------------------------------------------------------
+
+== LOG
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+=== Mon 17 Aug 2020 12:47:40 PM EDT
+
+- [√] make Band links to ZIP file 
+    -- BIB files procedures:
+    -- make ZIP file from i-will.SGU or other(s)
+    -- ftp ZIP to tomswan/download subfolder
+    -- do that for i-will.SGU and change Songs link
+    -- delete online and localhost BIB file; retain audio folder
+- [√] link to MyHub repo
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 === Sun 16 Aug 2020 09:44:40 PM EDT

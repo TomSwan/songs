@@ -25,19 +25,26 @@ image::banner.png[HOME, link=/]
 
 - - -
 
+[.text-center]
+== *Songs and Links*
+
+- - -
+
+[.text-center]
 ifdef::backend-html5[]
 *`PDF DOWNLOAD`*: link:songs.pdf[Open]
 endif::[]
 
 [.text-center]
-== *Songs and Links*
-
 image:button-audio.png[Video]-SoundCloud
 image:button-band.png[Band]-Band-in-a-Box
-image:button-chart.png[Chart]-Score
-image:button-lesson.png[Lesson]-Lesson video
 
+[.text-center]
+image:button-chart.png[Chart]-Score
+image:button-lesson.png[Lesson]-Video
 image:button-lyrics.png[Lyrics]-AZLyrics
+
+[.text-center]
 image:button-track.png[Track]-Backing track
 image:button-video.png[Video]-Performance video
 
