@@ -1,0 +1,3 @@
+// songs/README.adoc
+
+= About songs
