@@ -2,13 +2,14 @@
 
 == Notes For: songs Folder
 
-This is the project folder for the site Songs page at tomswan.com/songs. Notes are mostly temporary, but some milestones are saved by date at end of file.
+This file describes the project folder for the site Songs page at tomswan.com/songs. This file is not included in the git repository.
 
 - - -
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 == TO DO
 
+- [√] upload to GitHub private repo
 - [ ] 
 
 - - -
