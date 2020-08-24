@@ -1,0 +1,3 @@
+^s| [big]#Happy Birthday#
+image:button-audio.png[Audio,link=https://soundcloud.com/tomswan/happy-birthday-audio-20200815] 
+image:button-chart.png[Chart,link=https://www.tomswan.com/pub/why-i-love-lilypond/image/happy-birthday.png] 

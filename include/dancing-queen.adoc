@@ -1,0 +1,2 @@
+^s| [big]#Dancing Queen#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/abba/dancingqueen.html] 

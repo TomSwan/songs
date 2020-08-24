@@ -1,0 +1,3 @@
+^s| [big]#And I Love Her#
+image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/andiloveher.html] 
+image:button-track.png[Track,link=https://soundcloud.com/tomswan/andiloveher-track-20200818] 
