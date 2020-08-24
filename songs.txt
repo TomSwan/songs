@@ -62,6 +62,7 @@ image:button-video.png[Video,link=https://youtu.be/33SOQJ5O2Vo]
 
 ^s| [big]#And I Love Her#
 image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/andiloveher.html] 
+image:button-track.png[Track,link=https://soundcloud.com/tomswan/andiloveher-track-20200818] 
 
 ^s| [big]#Bach Prelude in Am#
 ^s| [big]#Bach Prelude No. 1#
@@ -121,7 +122,7 @@ image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/ifeelf
 
 ^s| [big]#I Will#
 image:button-band.png[Band,link=/downloads/i-will.zip] 
-image:button-track.png[Track,link=https://soundcloud.com/tomswan/i-will-render] 
+image:button-track.png[Track,link=https://soundcloud.com/tomswan/iwill-track-20200815] 
 image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/iwill.html] 
 
 ^s| [big]#Leo Brouwer Etude No. 1#
