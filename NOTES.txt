@@ -10,6 +10,8 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 == TO DO
 
 - [√] upload to GitHub private repo
+- [ ] convert to individual files per song
+- [ ] move source files to source folder
 - [ ] 
 
 - - -
@@ -54,6 +56,12 @@ From now on, push after new commits:
 
 ----
 $ git push
+----
+
+If that fails, do this once:
+
+----
+$ git push --set-upstream origin master
 ----
 
 - - -

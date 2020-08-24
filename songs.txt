@@ -54,8 +54,10 @@ image:button-video.png[Video]-Performance video
 [cols="1*"]
 |=== 
 
-^s| [big]#All My Loving# 
-image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/allmyloving.html] 
+include::all-my-loving.adoc[]
+
+//^s| [big]#All My Loving# 
+//image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/allmyloving.html] 
 
 ^s| [big]#Amazing Grace#
 image:button-video.png[Video,link=https://youtu.be/33SOQJ5O2Vo]
