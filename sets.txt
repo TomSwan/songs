@@ -1,0 +1,49 @@
+include::config.adoc[]
+
+== Sets
+
+// -----------------------------------------------------------------
+
+=== Set 001
+
+[cols="1*"]
+|===
+s| Freight Train
+s| Amazing Grace
+s| And I Love Her
+s| I Will
+s| Michelle
+s| Hide Your Love Away
+s| Blackbird
+s| Here Comes the Sun (vocal)
+s| Back in the U.S.S.R.
+s| Birthday
+s| Day Tripper
+s| Hooked on a Feeling
+s| Take it Easy
+s| Dancing Queen
+s| Two of Us
+s| Classical Gas
+|===
+
+<<<
+
+// -----------------------------------------------------------------
+
+=== Set 002
+
+[cols="1*"]
+|===
+s| Get Back
+s| Honeybee (original)
+s| You Are My Sunshine
+s| All My Loving
+s| Maxwell's Silver Hammer
+s| Greensleeves
+s| Can't Buy Me Love
+s| Eight Days a Week
+s| Romance de Amor
+s| Roundabout
+s| Bach Prelude No. 1
+s| Brown-Eyed Girl
+|=== 
