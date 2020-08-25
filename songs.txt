@@ -1,31 +1,5 @@
 // songs.txt
 
-:author: Tom Swan
-:email: <tom@tomswan.com>
-:description: Web site Song page
-:keywords: CLASSICAL JAZZ POP GUITAR MUSIC TOMSWAN.COM 
-:copyright: © 2020 by Tom Swan
-:cssdir: https://www.tomswan.com/css
-:favicon: favicon.png
-:docinfo: shared
-:icons: font
-:incdir: include
-:idprefix:
-:idseparator: -
-:imagesdir: ../tomswan/image
-ifdef::backend-html5[]
-:imagesdir: /image
-endif::[]
-:linkcss:
-:nofooter:
-:sectanchors:
-:stylesdir: css
-:stylesheet: asciidoctor.css
-
-image::banner.png[HOME, link=/]
-
-- - -
-
 [.text-center]
 == *Songs and Links*
 
@@ -33,7 +7,8 @@ image::banner.png[HOME, link=/]
 
 [.text-center]
 ifdef::backend-html5[]
-*`PDF DOWNLOAD`*: link:songs.pdf[Open]
+*`PDF DOWNLOAD`*: link:songs.pdf[View]
+*`SET-1`*: link:sets.html#set1[Open]
 endif::[]
 
 [.text-center]
@@ -55,44 +30,38 @@ image:button-video.png[Video]-Performance video
 [cols="1*"]
 |=== 
 
-include::{incdir}/all-my-loving.adoc[]
-include::{incdir}/amazing-grace.adoc[]
-include::{incdir}/and-i-love-her.adoc[]
-include::{incdir}/bach-prelude-in-am.adoc[]
-include::{incdir}/bach-prelude-no-one.adoc[]
-include::{incdir}/back-in-the-ussr.adoc[]
-include::{incdir}/birthday.adoc[]
-include::{incdir}/blackbird.adoc[]
-include::{incdir}/brown-eyed-girl.adoc[]
-include::{incdir}/classical-gas.adoc[]
-include::{incdir}/dancing-queen.adoc[]
-include::{incdir}/day-tripper.adoc[]
-include::{incdir}/freight-train.adoc[]
-include::{incdir}/get-back.adoc[]
-include::{incdir}/greensleeves.adoc[]
-include::{incdir}/happy-birthday.adoc[]
-include::{incdir}/here-comes-the-sun-instr.adoc[]
-include::{incdir}/here-comes-the-sun-vocal.adoc[]
-include::{incdir}/youve-got-to-hide-your-love-away.adoc[]
-include::{incdir}/honeybee.adoc[]
-include::{incdir}/hooked-on-a-feeling.adoc[]
-include::{incdir}/in-your-own-sweet-way.adoc[]
-include::{incdir}/i-feel-fine.adoc[]
-include::{incdir}/i-will.adoc[]
-include::{incdir}/leo-brouwer-etude-no-one.adoc[]
-include::{incdir}/leo-brouwer-etude-no-six.adoc[]
-include::{incdir}/love-me-do.adoc[]
-include::{incdir}/michelle.adoc[]
-include::{incdir}/romance-de-amor.adoc[]
-include::{incdir}/roundabout.adoc[]
-include::{incdir}/take-it-easy.adoc[]
-include::{incdir}/two-of-us.adoc[]
-include::{incdir}/you-are-my-sunshine.adoc[]
+include::{titles}/all-my-loving.adoc[]
+include::{titles}/amazing-grace.adoc[]
+include::{titles}/and-i-love-her.adoc[]
+include::{titles}/bach-prelude-in-am.adoc[]
+include::{titles}/bach-prelude-no-one.adoc[]
+include::{titles}/back-in-the-ussr.adoc[]
+include::{titles}/birthday.adoc[]
+include::{titles}/blackbird.adoc[]
+include::{titles}/brown-eyed-girl.adoc[]
+include::{titles}/classical-gas.adoc[]
+include::{titles}/dancing-queen.adoc[]
+include::{titles}/day-tripper.adoc[]
+include::{titles}/freight-train.adoc[]
+include::{titles}/get-back.adoc[]
+include::{titles}/greensleeves.adoc[]
+include::{titles}/happy-birthday.adoc[]
+include::{titles}/here-comes-the-sun-instr.adoc[]
+include::{titles}/here-comes-the-sun-vocal.adoc[]
+include::{titles}/hide-your-love-away.adoc[]
+include::{titles}/honeybee.adoc[]
+include::{titles}/hooked-on-a-feeling.adoc[]
+include::{titles}/in-your-own-sweet-way.adoc[]
+include::{titles}/i-feel-fine.adoc[]
+include::{titles}/i-will.adoc[]
+include::{titles}/leo-brouwer-etude-no-one.adoc[]
+include::{titles}/leo-brouwer-etude-no-six.adoc[]
+include::{titles}/love-me-do.adoc[]
+include::{titles}/michelle.adoc[]
+include::{titles}/romance-de-amor.adoc[]
+include::{titles}/roundabout.adoc[]
+include::{titles}/take-it-easy.adoc[]
+include::{titles}/two-of-us.adoc[]
+include::{titles}/you-are-my-sunshine.adoc[]
 
 |===
-
-ifdef::backend-html5[]
-+++
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57b23734d75ce630"></script>
-+++
-endif::[]

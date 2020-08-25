@@ -1,0 +1,5 @@
+// songs.adoc
+
+include::config.adoc[]
+include::songs.txt[]
+include::back.adoc[]

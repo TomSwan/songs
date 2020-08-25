@@ -1,0 +1,5 @@
+// sets.adoc
+
+include::config.adoc[]
+include::sets.txt[]
+include::back.adoc[]

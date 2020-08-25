@@ -1,49 +1,49 @@
-include::config.adoc[]
+// sets.txt
 
-== Sets
+[.text-center]
+== *Sets*
 
-// -----------------------------------------------------------------
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[[set1]]
+=== *Set 1 -- Mostly Beatles*
 
-=== Set 001
-
+//[caption=]
 [cols="1*"]
 |===
-s| Freight Train
-s| Amazing Grace
-s| And I Love Her
-s| I Will
-s| Michelle
-s| Hide Your Love Away
-s| Blackbird
-s| Here Comes the Sun (vocal)
-s| Back in the U.S.S.R.
-s| Birthday
-s| Day Tripper
-s| Hooked on a Feeling
-s| Take it Easy
-s| Dancing Queen
-s| Two of Us
-s| Classical Gas
+
+include::{titles}/freight-train.adoc[]
+include::{titles}/amazing-grace.adoc[]
+include::{titles}/here-comes-the-sun-vocal.adoc[]
+include::{titles}/and-i-love-her.adoc[]
+include::{titles}/michelle.adoc[]
+include::{titles}/i-will.adoc[]
+include::{titles}/hide-your-love-away.adoc[]
+include::{titles}/blackbird.adoc[]
+include::{titles}/back-in-the-ussr.adoc[]
+include::{titles}/birthday.adoc[]
+include::{titles}/day-tripper.adoc[]
+include::{titles}/two-of-us.adoc[]
+include::{titles}/classical-gas.adoc[]
+
 |===
 
-<<<
+- - -
 
-// -----------------------------------------------------------------
+//<<<
 
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 === Set 002
 
+[caption=]
 [cols="1*"]
 |===
-s| Get Back
-s| Honeybee (original)
-s| You Are My Sunshine
-s| All My Loving
-s| Maxwell's Silver Hammer
-s| Greensleeves
-s| Can't Buy Me Love
-s| Eight Days a Week
-s| Romance de Amor
-s| Roundabout
-s| Bach Prelude No. 1
-s| Brown-Eyed Girl
+
+include::{titles}/honeybee.adoc[]
+include::{titles}/roundabout.adoc[]
+include::{titles}/brown-eyed-girl.adoc[]
+
 |=== 
+
+- - -
+
+<<<
