@@ -8,7 +8,7 @@
 [.text-center]
 ifdef::backend-html5[]
 *`PDF DOWNLOAD`*: link:songs.pdf[View]
-*`SET-1`*: link:sets.html#set1[Open]
+//*`SET-1`*: link:sets.html#set1[Open]
 endif::[]
 
 [.text-center]
@@ -26,7 +26,6 @@ image:button-video.png[Video]-Performance video
 
 - - -
 
-[caption=]
 [cols="1*"]
 |=== 
 

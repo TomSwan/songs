@@ -1,2 +1,3 @@
 ^s| [big]#Greensleeves#
 image:button-video.png[Video,link=https://youtu.be/Q2%2D%2DYzU3zFc]
+image:button-chart.png[Chart,link=https://tomswan.com/downloads/greensleeves.pdf]

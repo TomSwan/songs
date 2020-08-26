@@ -12,7 +12,7 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 - [√] upload to GitHub private repo
 - [√] convert to individual files per song
 - [√] make include folder
-- [ ] rename include folder titles
+- [√] rename include folder titles
 
 - - -
 
