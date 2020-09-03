@@ -1,2 +1,2 @@
 ^s| [big]#Get Back#
-image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/getback.html] 
+image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/beatles/getback.html] 

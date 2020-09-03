@@ -1,2 +1,2 @@
 ^s| [big]#Here Comes the Sun (vocal)#
-image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/herecomesthesun.html] 
+image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/beatles/herecomesthesun.html] 

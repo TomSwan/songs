@@ -9,10 +9,14 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 == TO DO
 
-- [√] upload to GitHub private repo
-- [√] convert to individual files per song
-- [√] make include folder
-- [√] rename include folder titles
+- [ ] new button: Info
+- [ ] practice set
+    -- blues in C F Bb G
+    -- 251 major, minor in cycle
+    -- fingering patterns
+    -- pentatonic patterns
+    -- rehearsal set
+    -- live performance set
 
 - - -
 
@@ -70,8 +74,21 @@ $ git push --set-upstream origin master
 
 == LOG
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-=== Mon 17 Aug 2020 12:47:40 PM EDT
+.Tue 01 Sep 2020 01:10:17 PM EDT
+
+- [√] add TOC to sets
+- [√] link to load sets.pdf
+- [√] classical set
+- [√] make Songs, Sets and Pdf buttons
+
+.Wed 26 Aug 2020 05:03:20 PM EDT
+
+- [√] upload to GitHub private repo
+- [√] convert to individual files per song
+- [√] make include folder
+- [√] rename include folder titles
+
+.Mon 17 Aug 2020 12:47:40 PM EDT
 
 - [√] make Band links to ZIP file 
     -- BIB files procedures:
@@ -81,8 +98,7 @@ $ git push --set-upstream origin master
     -- delete online and localhost BIB file; retain audio folder
 - [√] link to MyHub repo
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-=== Sun 16 Aug 2020 09:44:40 PM EDT
+.Sun 16 Aug 2020 09:44:40 PM EDT
 
 - [√] disable song refs in Documents
 - [√] copy songs.pdf to shared
@@ -93,7 +109,6 @@ $ git push --set-upstream origin master
 - [√] test Lyrics button ref
 - [√] stop cleaning image and css folders
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-=== Sun 16 Aug 2020 01:44:01 PM EDT
+.Sun 16 Aug 2020 01:44:01 PM EDT
 
 Moved from Dropbox/Documents songs.txt solo file to songs project folder.

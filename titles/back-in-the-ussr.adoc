@@ -1,2 +1,2 @@
 ^s| [big]#Back in the U.S.S.R.#
-image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/backintheussr.html] 
+image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/beatles/backintheussr.html] 

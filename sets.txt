@@ -3,7 +3,18 @@
 [.text-center]
 == *Sets*
 
+[.text-center]
+ifdef::backend-html5[]
+image:button-pdf.png["Pdf", link=sets.pdf] 
+image:button-songs.png["Sets", link=songs.html] 
+endif::[]
+
+ifdef::backend-html5[]
+toc::[] 
+endif::[]
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 [[set1]]
 === *Set 1 -- Mostly Beatles*
 
@@ -26,22 +37,38 @@ include::{titles}/classical-gas.adoc[]
 
 |===
 
-- - -
-
-//<<<
-
+<<<
+    
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-=== Set 002
+
+[[set2]]
+=== *Set 2 -- Classical*
 
 [cols="1*"]
 |===
 
-include::{titles}/honeybee.adoc[]
-include::{titles}/roundabout.adoc[]
-include::{titles}/brown-eyed-girl.adoc[]
+include::{titles}/bach-prelude-in-am.adoc[]
+include::{titles}/greensleeves.adoc[]
+include::{titles}/happy-birthday.adoc[]
+include::{titles}/leo-brouwer-etude-no-one.adoc[]
+include::{titles}/leo-brouwer-etude-no-six.adoc[]
+include::{titles}/bach-prelude-no-one.adoc[]
+include::{titles}/classical-gas.adoc[]
+include::{titles}/romance-de-amor.adoc[]
 
 |=== 
 
-- - -
+<<<
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[[set3]]
+=== *Set 3 -- Practice*
+
+[cols="1*"]
+|===
+include::{titles}/coming-soon.adoc[]
+//include::{titles}/fingering-patterns.adoc[]
+|=== 
 
 <<<

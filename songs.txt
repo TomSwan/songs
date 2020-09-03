@@ -3,13 +3,13 @@
 [.text-center]
 == *Songs and Links*
 
-- - -
-
 [.text-center]
 ifdef::backend-html5[]
-*`PDF DOWNLOAD`*: link:songs.pdf[View]
-//*`SET-1`*: link:sets.html#set1[Open]
+image:button-pdf.png["Pdf", link=songs.pdf] 
+image:button-sets.png["Sets", link=sets.html] 
 endif::[]
+
+- - -
 
 [.text-center]
 image:button-audio.png[Video]-SoundCloud
@@ -21,10 +21,13 @@ image:button-lesson.png[Lesson]-Video
 image:button-lyrics.png[Lyrics]-AZLyrics
 
 [.text-center]
+image:button-midi.png[Midi]-Score audio
 image:button-track.png[Track]-Backing track
 image:button-video.png[Video]-Performance video
 
 - - -
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [cols="1*"]
 |=== 

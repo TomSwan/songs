@@ -19,6 +19,9 @@ endif::[]
 :sectanchors:
 :stylesdir: css
 :stylesheet: asciidoctor.css
+ifdef::backend-html5[]
+:toc: macro
+endif::[]
 
 image::banner.png[HOME, link=/]
 

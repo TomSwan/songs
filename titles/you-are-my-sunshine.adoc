@@ -1,2 +1,2 @@
 ^s| [big]#You Are My Sunshine#
-image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/geneautry/youaremysunshine.html]
+image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/geneautry/youaremysunshine.html]

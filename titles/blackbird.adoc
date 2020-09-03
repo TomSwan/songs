@@ -1,2 +1,2 @@
 ^s| [big]#Blackbird#
-image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/blackbird.html] 
+image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/beatles/blackbird.html] 

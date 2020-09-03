@@ -1,2 +1,2 @@
 ^s| [big]#All My Loving# 
-image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/beatles/allmyloving.html] 
+image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/beatles/allmyloving.html] 

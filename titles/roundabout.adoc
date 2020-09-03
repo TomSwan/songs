@@ -1,2 +1,2 @@
 ^s| [big]#Roundabout#
-image:button-lyrics.png[Band,link=https://www.azlyrics.com/lyrics/yes/roundabout.html]
+image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/yes/roundabout.html]
