@@ -1,2 +1,2 @@
 ^s| [big]#Take it Easy#
-image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/eagles/takeiteasy-1972.html]
+image:button-lyrics.png[Lyrics, window=_blank, link=https://www.azlyrics.com/lyrics/eagles/takeiteasy-1972.html]

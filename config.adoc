@@ -1,13 +1,13 @@
+// config.adoc
+
 :author: Tom Swan
 :email: <tom@tomswan.com>
 :description: Web site Song page
 :keywords: CLASSICAL JAZZ POP GUITAR MUSIC TOMSWAN.COM 
 :copyright: © 2020 by Tom Swan
-:cssdir: https://www.tomswan.com/css
 :favicon: favicon.png
 :docinfo: shared
 :icons: font
-:titles: titles
 :idprefix:
 :idseparator: -
 :imagesdir: ../tomswan/image
@@ -19,10 +19,16 @@ endif::[]
 :sectanchors:
 :stylesdir: css
 :stylesheet: asciidoctor.css
+// -----------------------------------------------------------------
+//:hostpath: https://www.tomswan.com
+:hostpath: http://www.tomswan.localhost
+
+:titles: titles
+
 ifdef::backend-html5[]
 :toc: macro
 endif::[]
 
-image::banner.png[HOME, link=/]
+image::banner.png[HOME, link={hostpath}]
 
 - - -

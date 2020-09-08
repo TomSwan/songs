@@ -1,2 +1,2 @@
 ^s| [big]#Hooked on a Feeling#
-image:button-video.png[Video,link=https://youtu.be/ZJ5DLYR-91s]
+image:button-video.png[Video, window=_blank, link=https://youtu.be/ZJ5DLYR-91s]

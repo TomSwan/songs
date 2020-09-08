@@ -1,2 +1,2 @@
 ^s| [big]#Love Me Do#
-image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/beatles/lovemedo.html]
+image:button-lyrics.png[Lyrics, window=_blank, link=https://www.azlyrics.com/lyrics/beatles/lovemedo.html]

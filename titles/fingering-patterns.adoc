@@ -1,2 +1,2 @@
 ^s| [big]#Fingering Patterns#
-image:button-chart.png[Chart,link=../pub/fingering-patterns/fingering-template.png]
+image:button-chart.png[Chart, window=_blank, link=../pub/fingering-patterns/fingering-template.png]

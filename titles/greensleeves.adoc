@@ -1,4 +1,4 @@
 ^s| [big]#Greensleeves#
-image:button-chart.png[Chart,link=../downloads/greensleeves-CHART-20200831.pdf]
-image:button-midi.png[Video,link=https://soundcloud.com/tomswan/greensleeves-midi-20200831]
-image:button-video.png[Video,link=https://youtu.be/Q2%2D%2DYzU3zFc]
+image:button-chart.png[Chart, window=_blank, link=../downloads/greensleeves-CHART-20200831.pdf]
+image:button-midi.png[Video, window=_blank, link=https://soundcloud.com/tomswan/greensleeves-midi-20200831]
+image:button-video.png[Video, window=_blank, link=https://youtu.be/Q2%2D%2DYzU3zFc]

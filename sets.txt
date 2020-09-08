@@ -4,9 +4,13 @@
 == *Sets*
 
 [.text-center]
+//ifdef::backend-html5[]
+//image:button-pdf.png["Pdf", link=https://tomswan.com/songs/sets.pdf] 
+//image:button-songs.png["Sets", link=https://tomswan.com/songs/songs.html]
+//endif::[]
 ifdef::backend-html5[]
-image:button-pdf.png["Pdf", link=sets.pdf] 
-image:button-songs.png["Sets", link=songs.html] 
+image:button-pdf.png["Pdf", link={hostpath}/songs/sets.pdf] 
+image:button-songs.png["Sets", link={hostpath}/songs/songs.html]
 endif::[]
 
 ifdef::backend-html5[]
@@ -15,8 +19,10 @@ endif::[]
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-[[set1]]
-=== *Set 1 -- Mostly Beatles*
+[[top]]
+[reftext="Top of Page"]
+
+=== *Set 1 -- Mostly Beatles* 
 
 [cols="1*"]
 |===
@@ -58,7 +64,28 @@ include::{titles}/romance-de-amor.adoc[]
 
 |=== 
 
+<<top>>
+
 <<<
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+//[[set3]]
+//=== *Set 3 -- Fingering Patterns*
+
+//[cols="1*"]
+//|===
+//include::{titles}/dorian-fretboard-fingering.adoc[]
+//include::{titles}/dorian-fretboard-intervals.adoc[]
+//include::{titles}/ionian-fretboard-fingering.adoc[]
+//include::{titles}/ionian-fretboard-intervals.adoc[]
+//include::{titles}/mixolydian-fretboard-fingering.adoc[]
+//include::{titles}/mixolydian-fretboard-intervals.adoc[]
+//|=== 
+
+//<<top>>
+
+//<<<
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -68,7 +95,6 @@ include::{titles}/romance-de-amor.adoc[]
 [cols="1*"]
 |===
 include::{titles}/coming-soon.adoc[]
-//include::{titles}/fingering-patterns.adoc[]
 |=== 
 
-<<<
+<<top>>

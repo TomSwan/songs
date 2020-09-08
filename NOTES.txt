@@ -2,6 +2,8 @@
 
 == Notes For: songs Folder
 
+CAUTION: Now on dev branch
+
 This file describes the project folder for the site Songs page at tomswan.com/songs. This file is not included in the git repository.
 
 - - -
@@ -9,16 +11,20 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 == TO DO
 
-- [ ] new button: Info
+- [ ] new Songs button: Info (i.e. about the song, any tracks, ...)
 - [ ] practice set
     -- blues in C F Bb G
     -- 251 major, minor in cycle
-    -- fingering patterns
+- [ ] fingering patterns set
     -- pentatonic patterns
-    -- rehearsal set
-    -- live performance set
+- [ ] rehearsal set (busking-REHEARSE-20200911)
+- [ ] live performance set (busking-LIVE-20200911)
+- [ ] top 10 newest entries
 
 - - -
+ target="_blank"
+<a class="image" href="https://www.azlyrics.com/lyrics/beatles/allmyloving.html target=_blank"><img src="/image/button-lyrics.png" alt="Lyrics"></a>
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 
 // -----------------------------------------------------------------
 

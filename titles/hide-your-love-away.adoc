@@ -1,2 +1,2 @@
-^s| [big]#You've Got to Hide Your Love Away#
-image:button-lyrics.png[Lyrics,link=https://www.azlyrics.com/lyrics/beatles/youvegottohideyourloveaway.html] 
+^s| [big]#(You've Got to) Hide Your Love Away#
+image:button-lyrics.png[Lyrics, window=_blank, link=https://www.azlyrics.com/lyrics/beatles/youvegottohideyourloveaway.html] 

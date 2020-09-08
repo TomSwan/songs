@@ -1,0 +1,2 @@
+^s| [big]#Ionian Fretboard Fingering#
+image:button-chart.png[Chart, window=_blank, link=../pub/fingering-patterns/ionian-fretboard-fingering.png]

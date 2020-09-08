@@ -4,9 +4,13 @@
 == *Songs and Links*
 
 [.text-center]
+//ifdef::backend-html5[]
+//image:button-pdf.png["Pdf", link=https://tomswan.com/songs/songs.pdf] 
+//image:button-sets.png["Sets", link=https://tomswan.com/songs/sets.html]
+//endif::[]
 ifdef::backend-html5[]
-image:button-pdf.png["Pdf", link=songs.pdf] 
-image:button-sets.png["Sets", link=sets.html] 
+image:button-pdf.png["Pdf", link={hostpath}/songs/songs.pdf] 
+image:button-sets.png["Sets", link={hostpath}/songs/sets.html]
 endif::[]
 
 - - -
