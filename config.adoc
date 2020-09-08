@@ -17,11 +17,12 @@ endif::[]
 :linkcss:
 :nofooter:
 :sectanchors:
+:cssdir: https://www.tomswan.com/css
 :stylesdir: css
 :stylesheet: asciidoctor.css
 // -----------------------------------------------------------------
-//:hostpath: https://www.tomswan.com
-:hostpath: http://www.tomswan.localhost
+:hostpath: https://www.tomswan.com
+//:hostpath: http://www.tomswan.localhost
 
 :titles: titles
 
@@ -29,6 +30,6 @@ ifdef::backend-html5[]
 :toc: macro
 endif::[]
 
-image::banner.png[HOME, link={hostpath}]
+image::banner.png[HOME, link=/]
 
 - - -

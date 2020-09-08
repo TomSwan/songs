@@ -9,8 +9,10 @@
 //image:button-songs.png["Sets", link=https://tomswan.com/songs/songs.html]
 //endif::[]
 ifdef::backend-html5[]
-image:button-pdf.png["Pdf", link={hostpath}/songs/sets.pdf] 
-image:button-songs.png["Sets", link={hostpath}/songs/songs.html]
+//image:button-pdf.png["Pdf", link={hostpath}/songs/sets.pdf] 
+image:button-pdf.png["Pdf", link=sets.pdf] 
+//image:button-songs.png["Sets", link={hostpath}/songs/songs.html]
+image:button-songs.png["Sets", link=songs.html]
 endif::[]
 
 ifdef::backend-html5[]
