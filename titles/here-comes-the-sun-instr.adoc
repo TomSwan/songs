@@ -1,2 +1,3 @@
 ^s| [big]#Here Comes the Sun (instr)#
+image:button-new.png[New]
 image:button-video.png[Video, window=_blank, link=https://youtu.be/C_HNXafYz6k]

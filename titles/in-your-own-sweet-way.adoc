@@ -1,4 +1,7 @@
 ^s| [big]#In Your Own Sweet Way#
+image:button-new.png[New]
 image:button-chart.png[Chart, window=_blank, link=../downloads/in-your-own-sweet-way-CHART-20200830.pdf]
+image:button-new.png[New]
 image:button-midi.png[Midi, window=_blank, link=https://soundcloud.com/tomswan/in-your-own-sweet-way-midi-20200830]
-image:button-track.png[Track, window=_blank, link=https://soundcloud.com/tomswan/in-your-own-sweet-way-track-20200906]
+image:button-new.png[New]
+image:button-track.png[Track, window=_blank, link=https://soundcloud.com/tomswan/in-your-own-sweet-way-track-20200918]

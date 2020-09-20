@@ -4,14 +4,8 @@
 == *Songs and Links*
 
 [.text-center]
-//ifdef::backend-html5[]
-//image:button-pdf.png["Pdf", link=https://tomswan.com/songs/songs.pdf] 
-//image:button-sets.png["Sets", link=https://tomswan.com/songs/sets.html]
-//endif::[]
 ifdef::backend-html5[]
-//image:button-pdf.png["Pdf", link={hostpath}/songs/songs.pdf] 
 image:button-pdf.png["Pdf", link=songs.pdf] 
-//image:button-sets.png["Sets", link={hostpath}/songs/sets.html]
 image:button-sets.png["Sets", link=sets.html]
 endif::[]
 
@@ -51,7 +45,6 @@ include::{titles}/classical-gas.adoc[]
 include::{titles}/dancing-queen.adoc[]
 include::{titles}/day-tripper.adoc[]
 include::{titles}/freight-train.adoc[]
-include::{titles}/get-back.adoc[]
 include::{titles}/greensleeves.adoc[]
 include::{titles}/happy-birthday.adoc[]
 include::{titles}/here-comes-the-sun-instr.adoc[]

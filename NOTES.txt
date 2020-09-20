@@ -11,15 +11,15 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 == TO DO
 
-- [ ] new Songs button: Info (i.e. about the song, any tracks, ...)
+- [ ] fingering patterns set
+    -- pentatonic patterns
+- [ ] new Info button: (i.e. about the song or tracks, ...)
 - [ ] practice set
     -- blues in C F Bb G
     -- 251 major, minor in cycle
-- [ ] fingering patterns set
-    -- pentatonic patterns
-- [ ] rehearsal set (busking-REHEARSE-20200911)
-- [ ] live performance set (busking-LIVE-20200911)
-- [ ] top 10 newest entries
+- [ ] live set (busking-LIVE-20200911)
+- [ ] Mostly Beatles Instrumental
+- [ ] newest videos
 
 - - -
  target="_blank"

@@ -21,9 +21,6 @@ endif::[]
 :stylesdir: css
 :stylesheet: asciidoctor.css
 // -----------------------------------------------------------------
-:hostpath: https://www.tomswan.com
-//:hostpath: http://www.tomswan.localhost
-
 :titles: titles
 
 ifdef::backend-html5[]
