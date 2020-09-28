@@ -27,6 +27,8 @@ image:button-video.png[Video]-Performance video
 
 - - -
 
+include::donate.adoc[]
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [cols="1*"]

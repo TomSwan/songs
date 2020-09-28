@@ -18,6 +18,8 @@ endif::[]
 [[top]]
 [reftext="Top of Page"]
 
+include::donate.adoc[]
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [[set1]]
@@ -28,16 +30,20 @@ endif::[]
 
 include::{titles}/freight-train.adoc[]
 include::{titles}/amazing-grace.adoc[]
-include::{titles}/back-in-the-ussr.adoc[]
-include::{titles}/blackbird.adoc[]
-include::{titles}/two-of-us.adoc[]
+include::{titles}/here-comes-the-sun-vocal.adoc[]
+include::{titles}/love-me-do.adoc[]
+include::{titles}/i-feel-fine.adoc[]
 include::{titles}/all-my-loving.adoc[]
-include::{titles}/take-it-easy.adoc[]
-include::{titles}/dancing-queen.adoc[]
-include::{titles}/honeybee.adoc[]
+include::{titles}/hide-your-love-away.adoc[]
+include::{titles}/blackbird.adoc[]
+include::{titles}/and-i-love-her.adoc[]
+include::{titles}/michelle.adoc[]
+include::{titles}/i-will.adoc[]
 include::{titles}/you-are-my-sunshine.adoc[]
 include::{titles}/classical-gas.adoc[]
-include::{titles}/brown-eyed-girl.adoc[]
+include::{titles}/birthday.adoc[]
+include::{titles}/day-tripper.adoc[]
+include::{titles}/back-in-the-ussr.adoc[]
 
 |===
 
@@ -51,17 +57,21 @@ include::{titles}/brown-eyed-girl.adoc[]
 [cols="1*"]
 |===
 
-include::{titles}/love-me-do.adoc[]
-include::{titles}/i-feel-fine.adoc[]
-include::{titles}/hide-your-love-away.adoc[]
-include::{titles}/blackbird.adoc[]
-include::{titles}/back-in-the-ussr.adoc[]
+include::{titles}/all-my-loving.adoc[]
 include::{titles}/and-i-love-her.adoc[]
-include::{titles}/michelle.adoc[]
-include::{titles}/i-will.adoc[]
-include::{titles}/here-comes-the-sun-vocal.adoc[]
+include::{titles}/back-in-the-ussr.adoc[]
 include::{titles}/birthday.adoc[]
+include::{titles}/blackbird.adoc[]
+include::{titles}/classical-gas.adoc[]
 include::{titles}/day-tripper.adoc[]
+include::{titles}/here-comes-the-sun-instr.adoc[]
+include::{titles}/here-comes-the-sun-vocal.adoc[]
+include::{titles}/hide-your-love-away.adoc[]
+include::{titles}/i-feel-fine.adoc[]
+include::{titles}/i-will.adoc[]
+include::{titles}/love-me-do.adoc[]
+include::{titles}/michelle.adoc[]
+include::{titles}/two-of-us.adoc[]
 
 |=== 
 
@@ -76,6 +86,7 @@ include::{titles}/day-tripper.adoc[]
 |===
 
 include::{titles}/bach-prelude-in-am.adoc[]
+include::{titles}/amazing-grace.adoc[]
 include::{titles}/leo-brouwer-etude-no-one.adoc[]
 include::{titles}/leo-brouwer-etude-no-six.adoc[]
 include::{titles}/greensleeves.adoc[]
@@ -87,6 +98,7 @@ include::{titles}/two-of-us.adoc[]
 include::{titles}/in-your-own-sweet-way.adoc[]
 include::{titles}/romance-de-amor.adoc[]
 include::{titles}/bach-prelude-no-one.adoc[]
+include::{titles}/classical-gas.adoc[]
 
 |=== 
 
@@ -108,3 +120,36 @@ include::{titles}/blues-C.adoc[]
 |=== 
 
 <<top>>
+
+// Remainder of file is for HTML only, e.g. not PDF
+
+ifdef::backend-html5[]
+
+<<<
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[[set6]]
+=== *Set 6 -- Backing Tracks*
+
+.[big]#*And I Love Her*#
+audio::../audio/and-i-love-her-TRACK-20200912.wav[options="controls"]
+
+.[big]#*Birthday*#
+audio::../audio/birthday-TRACK-20200825.wav[options="controls"]
+
+.[big]#*Day Tripper*#
+audio::../audio/day-tripper-TRACK-20200825.wav[options="controls"]
+
+.[big]#*Happy Birthday*#
+audio::../audio/happy-birthday.mp3[options="controls"]
+
+.[big]#*I Will*#
+audio::../audio/i-will-TRACK-20200911.wav[options="controls"]
+
+.[big]#*In Your Own Sweet Way*#
+audio::../audio/in-your-own-sweet-way-TRACK-20200918.wav[options="controls"]
+
+<<top>>
+
+endif::[]

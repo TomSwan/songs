@@ -2,4 +2,5 @@
 
 include::config.adoc[]
 include::sets.txt[]
+include::donate.adoc[]
 include::share.adoc[]

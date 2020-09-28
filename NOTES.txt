@@ -17,9 +17,6 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 - [ ] practice set
     -- blues in C F Bb G
     -- 251 major, minor in cycle
-- [ ] live set (busking-LIVE-20200911)
-- [ ] Mostly Beatles Instrumental
-- [ ] newest videos
 
 - - -
  target="_blank"
