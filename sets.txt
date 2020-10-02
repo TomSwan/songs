@@ -138,6 +138,9 @@ audio::../audio/and-i-love-her-TRACK-20200912.wav[options="controls"]
 .[big]#*Birthday*#
 audio::../audio/birthday-TRACK-20200825.wav[options="controls"]
 
+.[big]#*Back in the USSR*#
+audio::../audio/back-in-the-ussr-TRACK-20201001.wav[options="controls"]
+
 .[big]#*Day Tripper*#
 audio::../audio/day-tripper-TRACK-20200825.wav[options="controls"]
 
@@ -145,7 +148,7 @@ audio::../audio/day-tripper-TRACK-20200825.wav[options="controls"]
 audio::../audio/happy-birthday.mp3[options="controls"]
 
 .[big]#*I Will*#
-audio::../audio/i-will-TRACK-20200911.wav[options="controls"]
+audio::../audio/i-will-TRACK-20200929.wav[options="controls"]
 
 .[big]#*In Your Own Sweet Way*#
 audio::../audio/in-your-own-sweet-way-TRACK-20200918.wav[options="controls"]

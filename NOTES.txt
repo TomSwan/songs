@@ -19,57 +19,42 @@ This file describes the project folder for the site Songs page at tomswan.com/so
     -- 251 major, minor in cycle
 
 - - -
- target="_blank"
-<a class="image" href="https://www.azlyrics.com/lyrics/beatles/allmyloving.html target=_blank"><img src="/image/button-lyrics.png" alt="Lyrics"></a>
-<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 
 // -----------------------------------------------------------------
 
-=== HOW TO USE
+=== HOW TO UPLOAD A SONG CHART PDF
 
-* Edit songs.txt using existing entries as templates for new ones
-
-* F9 (make) to build
-
-* FileZilla build to localhost and to online tomswan/songs
+- 
 
 - - -
 
 // -----------------------------------------------------------------
 
-=== HOW TO CREATE AND LINK TO MYHUB REPO
+=== HOW TO UPLOAD A SONG AUDIO MIX
 
-----
-$ cd ~/Dropbox/MyHub
-$ git init --bare songs.git
-$ songs
-$ pwd
-/home/admin/Dropbox/projects2/songs
-$ git aa
-$ git commit
-$ git remote add myhub ~/Dropbox/MyHub/songs.git
-$ git remote -v
-myhub    /home/admin/Dropbox/MyHub/songs.git (fetch)
-myhub    /home/admin/Dropbox/MyHub/songs.git (push)
-$ git push --all -u myhub
-Counting objects: 20, done.
-...
-$ git st
-On branch master
-Your branch is up to date with 'myhub/master'.
-----
+- Mix the song to a WAV, MP3 or other audio file
+- Rename the audio file to name-of-song-TRACK-20200911.wav
+    -- replace TRACK with AUDIO or MIDI depending on use
+- Optionally move or copy audio file to Dropbox/Shared/Uploads
+- Optionally copy audio file to tomswan/Uploads
+- Upload audio file to SoundCloud 
+- Ftp audio file to localhost and tomswan.com audio/ folder
+    -- optionally delete old audio file(s) of the same name
+- Edit or create song .adoc file in titles/
+- Add song entry to songs.txt and sets.txt as needed
+- Optionally add playback entry to sets.txt "backing tracks"
+- F9 to compile
+- Ftp build contents to localhost and remote songs/ folder
 
-From now on, push after new commits:
+- - -
 
-----
-$ git push
-----
+// -----------------------------------------------------------------
 
-If that fails, do this once:
+=== HOW TO USE
 
-----
-$ git push --set-upstream origin master
-----
+- edit .txt files 
+- f9 to build
+- upload to online and localhost songs/
 
 - - -
 
