@@ -11,9 +11,12 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 == TO DO
 
+- [ ] use animated GIF for "New-->" button
 - [ ] fingering patterns set
     -- pentatonic patterns
 - [ ] new Info button: (i.e. about the song or tracks, ...)
+- [ ] improve button images 
+      -- image::sample.svg[Interactive,300,opts=interactive]
 - [ ] practice set
     -- blues in C F Bb G
     -- 251 major, minor in cycle
