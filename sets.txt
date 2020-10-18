@@ -65,6 +65,7 @@ include::{titles}/in-your-own-sweet-way.adoc[]
 include::{titles}/romance-de-amor.adoc[]
 include::{titles}/classical-gas.adoc[]
 include::{titles}/bach-prelude-no-one.adoc[]
+include::{titles}/recuerdos-de-la-alhambra.adoc[]
 
 |=== 
 

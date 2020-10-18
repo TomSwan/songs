@@ -1,4 +1,3 @@
 ^s| [big]#Back in the U.S.S.R.#
 image:button-lyrics.png[Lyrics, window=_blank, link=https://www.azlyrics.com/lyrics/beatles/backintheussr.html] 
-image:button-new.png[New]
 image:button-track.png[Track, window=_blank, link=https://soundcloud.com/tomswan/back-in-the-ussr-track-20201001]

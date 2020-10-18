@@ -1,6 +1,4 @@
 ^s| [big]#Freight Train#
-image:button-new.png[New]
 image:button-audio.png[Audio, window=_blank, link=https://soundcloud.com/tomswan/freight-train-audio-20200918] 
 image:button-lyrics.png[Lyrics, window=_blank, link=https://www.azlyrics.com/lyrics/joanbaez/freighttrain.html] 
-image:button-new.png[New]
 image:button-video.png[Video, window=_blank, link=https://youtu.be/pbRRexFmm6M]
