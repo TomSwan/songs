@@ -1,3 +1,2 @@
 ^s| [big]#Blues C#
-image:button-new.png[New]
 image:button-track.png[Track, window=_blank, link=https://soundcloud.com/tomswan/blues-c-track-20200912] 

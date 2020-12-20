@@ -1,3 +1,2 @@
 ^s| [big]#Blues Bb#
-image:button-new.png[New]
 image:button-track.png[Track, window=_blank, link=https://soundcloud.com/tomswan/blues-bb-track-20200911] 

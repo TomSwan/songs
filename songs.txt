@@ -27,8 +27,6 @@ image:button-video.png[Video]-Performance video
 
 - - -
 
-include::donate.adoc[]
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [cols="1*"]
@@ -46,6 +44,7 @@ include::{titles}/brown-eyed-girl.adoc[]
 include::{titles}/classical-gas.adoc[]
 include::{titles}/dancing-queen.adoc[]
 include::{titles}/day-tripper.adoc[]
+include::{titles}/deck-the-halls.adoc[]
 include::{titles}/freight-train.adoc[]
 include::{titles}/greensleeves.adoc[]
 include::{titles}/happy-birthday.adoc[]
