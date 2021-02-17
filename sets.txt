@@ -30,9 +30,11 @@ include::{titles}/freight-train.adoc[]
 include::{titles}/amazing-grace.adoc[]
 include::{titles}/here-comes-the-sun-vocal.adoc[]
 include::{titles}/hide-your-love-away.adoc[]
-include::{titles}/blackbird.adoc[]
+//include::{titles}/blackbird.adoc[]
+include::{titles}/and-i-love-her.adoc[]
 include::{titles}/michelle.adoc[]
 include::{titles}/i-will.adoc[]
+include::{titles}/joe-pass-dvd-blues.adoc[]
 include::{titles}/you-are-my-sunshine.adoc[]
 include::{titles}/classical-gas.adoc[]
 include::{titles}/two-of-us.adoc[]
@@ -56,7 +58,6 @@ include::{titles}/greensleeves.adoc[]
 include::{titles}/leo-brouwer-etude-no-one.adoc[]
 include::{titles}/leo-brouwer-etude-no-six.adoc[]
 include::{titles}/here-comes-the-sun-instr.adoc[]
-include::{titles}/recuerdos-de-la-alhambra.adoc[]
 include::{titles}/in-your-own-sweet-way.adoc[]
 include::{titles}/i-will.adoc[]
 include::{titles}/romance-de-amor.adoc[]
@@ -108,8 +109,8 @@ audio::../audio/back-in-the-ussr-TRACK-20201001.wav[options="controls"]
 .[big]#*Day Tripper*#
 audio::../audio/day-tripper-TRACK-20200825.wav[options="controls"]
 
-.[big]#*Happy Birthday*#
-audio::../audio/happy-birthday.mp3[options="controls"]
+//.[big]#*Happy Birthday*#
+//audio::../audio/happy-birthday.mp3[options="controls"]
 
 .[big]#*I Will*#
 audio::../audio/i-will-TRACK-20200929.wav[options="controls"]
