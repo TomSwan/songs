@@ -116,7 +116,8 @@ audio::../audio/day-tripper-TRACK-20200825.wav[options="controls"]
 audio::../audio/i-will-TRACK-20200929.wav[options="controls"]
 
 .[big]#*In Your Own Sweet Way*#
-audio::../audio/in-your-own-sweet-way-TRACK-20200918.wav[options="controls"]
+//audio::../audio/in-your-own-sweet-way-TRACK-20200918.wav[options="controls"]
+audio::../audio/in-your-own-sweet-way-TRACK-20210420.wav[options="controls"]
 
 <<top>>
 
