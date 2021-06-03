@@ -1,4 +1,3 @@
 ^s| [big]#Joe Pass DVD Blues#
-image:button-new.png[New]
 image:button-audio.png[Audio, window=_blank, link=https://soundcloud.com/tomswan/joe-pass-dvd-blues-AUDIO-20210114] 
 image:button-video.png[Video, window=_blank, link=https://youtu.be/PG1g5fL6nOc]

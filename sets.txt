@@ -58,6 +58,7 @@ include::{titles}/greensleeves.adoc[]
 include::{titles}/leo-brouwer-etude-no-one.adoc[]
 include::{titles}/leo-brouwer-etude-no-six.adoc[]
 include::{titles}/here-comes-the-sun-instr.adoc[]
+include::{titles}/playing-for-time.adoc[]
 include::{titles}/in-your-own-sweet-way.adoc[]
 include::{titles}/i-will.adoc[]
 include::{titles}/romance-de-amor.adoc[]
@@ -69,22 +70,22 @@ include::{titles}/bach-prelude-no-one.adoc[]
 
 <<top>>
 
-<<<
+//<<<
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-[[set3]]
-=== *Set 3 -- Practice*
+//[[set3]]
+//=== *Set 3 -- Practice*
 
-[cols="1*"]
-|===
+//[cols="1*"]
+//|===
 //include::{titles}/coming-soon.adoc[]
-include::{titles}/blues-Bb.adoc[]
-include::{titles}/blues-F.adoc[]
-include::{titles}/blues-C.adoc[]
-|=== 
+//include::{titles}/blues-Bb.adoc[]
+//include::{titles}/blues-F.adoc[]
+//include::{titles}/blues-C.adoc[]
+//|=== 
 
-<<top>>
+//<<top>>
 
 // Remainder of file is for HTML only, e.g. not PDF
 
@@ -112,8 +113,8 @@ audio::../audio/day-tripper-TRACK-20200825.wav[options="controls"]
 //.[big]#*Happy Birthday*#
 //audio::../audio/happy-birthday.mp3[options="controls"]
 
-.[big]#*I Will*#
-audio::../audio/i-will-TRACK-20200929.wav[options="controls"]
+//.[big]#*I Will*#
+//audio::../audio/i-will-TRACK-20200929.wav[options="controls"//]
 
 .[big]#*In Your Own Sweet Way*#
 //audio::../audio/in-your-own-sweet-way-TRACK-20200918.wav[options="controls"]
