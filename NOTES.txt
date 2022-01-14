@@ -63,6 +63,43 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 
 // -----------------------------------------------------------------
 
+=== Mon 14 Jun 2021 12:16:30 PM EDT
+
+Discarded code from sets.txt:
+
+----
+ifdef::backend-html5[]
+
+[[set9]]
+=== *Set 9 -- Backing Tracks*
+
+.[big]#*And I Love Her*#
+audio::../audio/and-i-love-her-TRACK-20200912.wav[options="controls"]
+
+.[big]#*Birthday*#
+audio::../audio/birthday-TRACK-20200825.wav[options="controls"]
+
+.[big]#*Back in the USSR*#
+audio::../audio/back-in-the-ussr-TRACK-20201001.wav[options="controls"]
+
+.[big]#*Day Tripper*#
+audio::../audio/day-tripper-TRACK-20200825.wav[options="controls"]
+
+.[big]#*Happy Birthday*#
+audio::../audio/happy-birthday.mp3[options="controls"]
+
+.[big]#*In Your Own Sweet Way*#
+audio::../audio/in-your-own-sweet-way-TRACK-20210420.wav[options="controls"]
+
+<<top>>
+
+endif::[]
+----
+
+- - -
+
+// -----------------------------------------------------------------
+
 == LOG
 
 .Tue 01 Sep 2020 01:10:17 PM EDT

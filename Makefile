@@ -34,3 +34,9 @@ clean:
 	@echo "! REMOVING BUILD TARGETS "$*
 	rm -v -f ${targets}
 	rm -v -f $(blddir)/*.*
+
+refresh:
+	@echo "! REFRESHING SHARED BUILD TARGETS "$*
+	cp $(blddir)/songs.pdf ~/Dropbox/Shared
+	cp $(blddir)/sets.pdf ~/Dropbox/Shared
+	
