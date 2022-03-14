@@ -15,13 +15,10 @@ toc::[]
 [reftext="Top of Page"]
 endif::[]
 
-
-=== Alphabetical by Instrument
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [[set1]]
-==== *Acoustic (Classical) Guitar Pieces*
+=== *Set 1 -- Acoustic (Classical) Guitar Pieces*
 
 [cols="1*"]
 |===
@@ -62,7 +59,7 @@ endif::[]
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [[set2]]
-==== *Electric-Acoustic Guitar Pieces*
+=== *Set 2 -- Electric-Acoustic Guitar Pieces*
 
 [cols="1*"]
 |===
@@ -84,7 +81,7 @@ endif::[]
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [[set3]]
-==== *Electric Guitar Pieces*
+=== *Set 3 -- Electric Guitar Pieces*
 
 [cols="1*"]
 |===
@@ -103,60 +100,5 @@ ifdef::backend-html5[]
 <<top>>
 endif::[]
 
-<<<
-    
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-=== Suggested Performance Sets
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-[[set]]
-==== *Set 1 -- blah blah blah blah blah blah *
-
-[cols="1*"]
-|===
-
-
-|=== 
-
-ifdef::backend-html5[]
-<<top>>
-endif::[]
-
-<<<
-    
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-[[setX]]
-==== *Set X -- blah blah blah blah blah blah *
-
-[cols="1*"]
-|===
-
-
-|=== 
-
-ifdef::backend-html5[]
-<<top>>
-endif::[]
-
-<<<
-    
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-[[setX]]
-==== *Set X -- blah blah blah blah blah blah *
-
-[cols="1*"]
-|===
-
-
-|=== 
-
-ifdef::backend-html5[]
-<<top>>
-endif::[]
-
-<<<
-    
+// To add new set:
+//   copy from preceding >>> to here

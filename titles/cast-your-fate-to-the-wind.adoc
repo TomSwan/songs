@@ -1,1 +1,1 @@
-^s| image:button-new.png[New] [big]#Cast Your Fate To The Wind#
+^s| [big]#Cast Your Fate To The Wind#

@@ -1,2 +1,2 @@
-^s| image:button-new.png[New] [big]#If I Fell#
+^s| [big]#If I Fell#
 image:button-lyrics.png[Lyrics, window=_blank, link=https://www.azlyrics.com/lyrics/beatles/ififell.html] 

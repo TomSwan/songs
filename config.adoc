@@ -17,6 +17,7 @@ endif::[]
 :linkcss:
 :nofooter:
 :sectanchors:
+:allow-uri-read:
 :cssdir: https://www.tomswan.com/css
 :stylesdir: css
 :stylesheet: asciidoctor.css

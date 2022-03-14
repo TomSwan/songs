@@ -1,4 +1,4 @@
-^s| image:button-new.png[New] [big]#Playing for Time#
+^s| [big]#Playing for Time#
 image:button-audio.png[Audio, window=_blank, link=https://soundcloud.com/tomswan/playing-for-time-audio-20210522] 
 image:button-chart.png[Chart, window=_blank, link=../downloads/playing-for-time.pdf]
 image:button-video.png[Video, window=_blank, link=https://www.youtube.com/watch?v=8P915Latb0g]

@@ -8,6 +8,19 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 
 - - -
 
+
+una limosna
+
+Your Mama Don't Dance
+your-mama-don't-dance
+https://www.azlyrics.com/lyrics/logginsmessina/yourmamadontdance.html
+
+Summertime Blues
+summertime-blues
+https://www.azlyrics.com/lyrics/eddiecochran/summertimeblues.html
+Eddie Cochran
+
+
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 == TO DO
 
@@ -17,9 +30,6 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 - [ ] new Info button: (i.e. about the song or tracks, ...)
 - [ ] improve button images 
       -- image::sample.svg[Interactive,300,opts=interactive]
-- [ ] practice set
-    -- blues in C F Bb G
-    -- 251 major, minor in cycle
 
 - - -
 
