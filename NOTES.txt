@@ -2,42 +2,7 @@
 
 == Notes For: songs Folder
 
-CAUTION: Now on dev branch
-
 This file describes the project folder for the site Songs page at tomswan.com/songs. This file is not included in the git repository.
-
-- - -
-
-
-una limosna
-
-Your Mama Don't Dance
-your-mama-don't-dance
-https://www.azlyrics.com/lyrics/logginsmessina/yourmamadontdance.html
-
-Summertime Blues
-summertime-blues
-https://www.azlyrics.com/lyrics/eddiecochran/summertimeblues.html
-Eddie Cochran
-
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-== TO DO
-
-- [ ] use animated GIF for "New-->" button
-- [ ] fingering patterns set
-    -- pentatonic patterns
-- [ ] new Info button: (i.e. about the song or tracks, ...)
-- [ ] improve button images 
-      -- image::sample.svg[Interactive,300,opts=interactive]
-
-- - -
-
-// -----------------------------------------------------------------
-
-=== HOW TO UPLOAD A SONG CHART PDF
-
-- 
 
 - - -
 
@@ -59,58 +24,13 @@ Eddie Cochran
 - F9 to compile
 - Ftp build contents to localhost and remote songs/ folder
 
-- - -
-
-// -----------------------------------------------------------------
-
-=== HOW TO USE
-
-- edit .txt files 
-- f9 to build
-- upload to online and localhost songs/
-
-- - -
-
-// -----------------------------------------------------------------
-
-=== Mon 14 Jun 2021 12:16:30 PM EDT
-
-Discarded code from sets.txt:
-
-----
-ifdef::backend-html5[]
-
-[[set9]]
-=== *Set 9 -- Backing Tracks*
-
-.[big]#*And I Love Her*#
-audio::../audio/and-i-love-her-TRACK-20200912.wav[options="controls"]
-
-.[big]#*Birthday*#
-audio::../audio/birthday-TRACK-20200825.wav[options="controls"]
-
-.[big]#*Back in the USSR*#
-audio::../audio/back-in-the-ussr-TRACK-20201001.wav[options="controls"]
-
-.[big]#*Day Tripper*#
-audio::../audio/day-tripper-TRACK-20200825.wav[options="controls"]
-
-.[big]#*Happy Birthday*#
-audio::../audio/happy-birthday.mp3[options="controls"]
-
-.[big]#*In Your Own Sweet Way*#
-audio::../audio/in-your-own-sweet-way-TRACK-20210420.wav[options="controls"]
-
-<<top>>
-
-endif::[]
-----
-
-- - -
-
 // -----------------------------------------------------------------
 
 == LOG
+
+.Mon 14 Mar 2022 03:46:35 PM EDT
+
+- [√] order songs in sets.txt alphabetically by instrument
 
 .Tue 01 Sep 2020 01:10:17 PM EDT
 
