@@ -29,7 +29,7 @@ image:button-video.png[Video]-Performance video
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-[cols="1*"]
+[cols="1*",stripes=odd]
 |=== 
 
 include::{titles}/amazing-grace.adoc[]
@@ -61,6 +61,7 @@ include::{titles}/playing-for-time.adoc[]
 include::{titles}/recuerdos-de-la-alhambra.adoc[]
 include::{titles}/reelin'-in-the-years.adoc[]
 include::{titles}/romance-de-amor.adoc[]
+include::{titles}/roundabout.adoc[]
 include::{titles}/summertime-blues.adoc[]
 include::{titles}/sunshine-of-your-love.adoc[]
 include::{titles}/take-it-easy.adoc[]
