@@ -1,2 +1,0 @@
-^s| [big]#Mixolydian Fretboard Fingering#
-image:button-chart.png[Chart, window=_blank, link=../pub/fingering-patterns/mixolydian-fretboard-fingering.png]

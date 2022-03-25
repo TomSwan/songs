@@ -1,2 +1,0 @@
-^s| [big]#Dorian Fretboard Fingering#
-image:button-chart.png[Chart, window=_blank, link=../pub/fingering-patterns/dorian-fretboard-fingering.png]

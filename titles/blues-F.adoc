@@ -1,2 +1,0 @@
-^s| [big]#Blues F#
-image:button-track.png[Track, window=_blank, link=https://soundcloud.com/tomswan/blues-f-track-20200911] 

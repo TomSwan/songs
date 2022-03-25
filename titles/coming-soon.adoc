@@ -1,9 +1,0 @@
-^s| [big]#Coming Soon#
-image:button-audio.png[Video]
-image:button-band.png[Band]
-image:button-chart.png[Chart]
-image:button-lesson.png[Lesson]
-image:button-lyrics.png[Lyrics]
-image:button-midi.png[Midi]
-image:button-track.png[Track]
-image:button-video.png[Video]
