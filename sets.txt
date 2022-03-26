@@ -15,40 +15,24 @@ toc::[]
 [reftext="Top of Page"]
 endif::[]
 
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [[set1]]
-=== *Acoustic (Classical) Guitar Pieces*
+=== *Classical Classics*
 
 [cols="1*",stripes=odd]
 |===
 
-include::{titles}/amazing-grace.adoc[]
-include::{titles}/and-i-love-her.adoc[]
 include::{titles}/bach-prelude-in-am.adoc[]
-include::{titles}/bach-prelude-no-one.adoc[]
-include::{titles}/blackbird.adoc[]
-include::{titles}/brown-eyed-girl.adoc[]
-include::{titles}/cast-your-fate-to-the-wind.adoc[]
-include::{titles}/classical-gas.adoc[]
-include::{titles}/freight-train.adoc[]
-include::{titles}/georgia.adoc[]
 include::{titles}/greensleeves.adoc[]
-include::{titles}/here-comes-the-sun-instr.adoc[]
-include::{titles}/hide-your-love-away.adoc[]
-include::{titles}/honeybee.adoc[]
-include::{titles}/if-i-fell.adoc[]
-include::{titles}/joe-pass-dvd-blues.adoc[]
 include::{titles}/leo-brouwer-etude-no-one.adoc[]
 include::{titles}/leo-brouwer-etude-no-six.adoc[]
-include::{titles}/michelle.adoc[]
-include::{titles}/recuerdos-de-la-alhambra.adoc[]
 include::{titles}/romance-de-amor.adoc[]
-include::{titles}/two-of-us.adoc[]
+include::{titles}/recuerdos-de-la-alhambra.adoc[]
 include::{titles}/una-limosna-por-el-amor-de-dios.adoc[]
-include::{titles}/you-are-my-sunshine.adoc[]
-
+include::{titles}/here-comes-the-sun-instr.adoc[]
+include::{titles}/classical-gas.adoc[]
+include::{titles}/bach-prelude-no-one.adoc[]
 |=== 
 
 ifdef::backend-html5[]
@@ -60,17 +44,28 @@ endif::[]
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [[set2]]
-=== *Electric-Acoustic Guitar Pieces*
+=== *Busking or Bust*
 
 [cols="1*",stripes=odd]
 |===
 
-include::{titles}/dancing-queen.adoc[]
+include::{titles}/freight-train.adoc[]
+include::{titles}/amazing-grace.adoc[]
 include::{titles}/here-comes-the-sun-vocal.adoc[]
-include::{titles}/in-your-own-sweet-way.adoc[]
 include::{titles}/playing-for-time.adoc[]
-include::{titles}/roundabout.adoc[]
-include::{titles}/take-it-easy.adoc[]
+include::{titles}/in-your-own-sweet-way.adoc[]
+include::{titles}/joe-pass-dvd-blues.adoc[]
+include::{titles}/cast-your-fate-to-the-wind.adoc[]
+include::{titles}/if-i-fell.adoc[]
+include::{titles}/michelle.adoc[]
+include::{titles}/and-i-love-her.adoc[]
+include::{titles}/blackbird.adoc[]
+include::{titles}/you-are-my-sunshine.adoc[]
+include::{titles}/babe-im-gonna-leave-you.adoc[]
+include::{titles}/hide-your-love-away.adoc[]
+include::{titles}/honeybee.adoc[]
+include::{titles}/classical-gas.adoc[]
+include::{titles}/brown-eyed-girl.adoc[]
 
 |=== 
 
@@ -83,97 +78,6 @@ endif::[]
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 [[set3]]
-=== *Electric Guitar Pieces*
-
-[cols="1*",stripes=odd]
-|===
-
-include::{titles}/birthday.adoc[]
-include::{titles}/day-tripper.adoc[]
-include::{titles}/i-think-we're-alone-now.adoc[]
-include::{titles}/reelin'-in-the-years.adoc[]
-include::{titles}/summertime-blues.adoc[]
-include::{titles}/sunshine-of-your-love.adoc[]
-include::{titles}/your-mama-don't-dance.adoc[]
-
-|=== 
-
-ifdef::backend-html5[]
-<<top>>
-endif::[]
-
-<<<
-    
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-[[set4]]
-=== *Classical: It's a Gas*
-
-[cols="1*",stripes=odd]
-|===
-
-include::{titles}/bach-prelude-in-am.adoc[]
-include::{titles}/greensleeves.adoc[]
-include::{titles}/leo-brouwer-etude-no-one.adoc[]
-include::{titles}/leo-brouwer-etude-no-six.adoc[]
-include::{titles}/romance-de-amor.adoc[]
-include::{titles}/recuerdos-de-la-alhambra.adoc[]
-include::{titles}/una-limosna-por-el-amor-de-dios.adoc[]
-include::{titles}/classical-gas.adoc[]
-include::{titles}/bach-prelude-no-one.adoc[]
-
-|=== 
-
-ifdef::backend-html5[]
-<<top>>
-endif::[]
-
-<<<
-    
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-[[set5]]
-=== *Busking or Bust*
-
-[cols="1*",stripes=odd]
-|===
-
-include::{titles}/freight-train.adoc[]
-include::{titles}/amazing-grace.adoc[]
-include::{titles}/playing-for-time.adoc[]
-include::{titles}/here-comes-the-sun-vocal.adoc[]
-include::{titles}/you-are-my-sunshine.adoc[]
-include::{titles}/babe-im-gonna-leave-you.adoc[]
-include::{titles}/and-i-love-her.adoc[]
-include::{titles}/if-i-fell.adoc[]
-
-include::{titles}/hide-your-love-away.adoc[]
-include::{titles}/honeybee.adoc[]
-include::{titles}/classical-gas.adoc[]
-
-include::{titles}/blackbird.adoc[]
-
-include::{titles}/brown-eyed-girl.adoc[]
-
-include::{titles}/in-your-own-sweet-way.adoc[]
-include::{titles}/roundabout.adoc[]
-
-include::{titles}/cast-your-fate-to-the-wind.adoc[]
-include::{titles}/summertime-blues.adoc[]
-include::{titles}/georgia.adoc[]
-include::{titles}/take-it-easy.adoc[]
-
-|=== 
-
-ifdef::backend-html5[]
-<<top>>
-endif::[]
-
-<<<
-    
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-[[set6]]
 === *Elec-Trickle Bananas*
 
 [cols="1*",stripes=odd]
@@ -185,6 +89,7 @@ include::{titles}/sunshine-of-your-love.adoc[]
 include::{titles}/reelin'-in-the-years.adoc[]
 include::{titles}/i-think-we're-alone-now.adoc[]
 include::{titles}/your-mama-don't-dance.adoc[]
+include::{titles}/summertime-blues.adoc[]
 
 |=== 
 
