@@ -4,7 +4,7 @@
 :email: <tom@tomswan.com>
 :description: Web site Song page
 :keywords: CLASSICAL JAZZ POP GUITAR MUSIC TOMSWAN.COM 
-:copyright: © 2020 by Tom Swan
+:copyright: © 2022 by Tom Swan
 :favicon: favicon.png
 :docinfo: shared
 :icons: font
