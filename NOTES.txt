@@ -6,7 +6,7 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
 
 === HOW TO UPLOAD A SONG AUDIO MIX
 
@@ -24,7 +24,9 @@ This file describes the project folder for the site Songs page at tomswan.com/so
 - F9 to compile
 - Ftp build contents to localhost and remote songs/ folder
 
-// -----------------------------------------------------------------
+- - -
+
+// --------------------------------------------------
 
 == LOG
 
