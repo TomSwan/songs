@@ -1,6 +1,12 @@
-// songs.adoc
+// songs.adoc (Please read LICENSE.txt)
 
-include::config.adoc[]
+:author: Tom Swan
+:email: <tom@tomswan.com>
+:copyright: © 2022 by Tom Swan
+:icons: font
+:sectanchors:
+:imagesdir: image
+:figure-caption!:
+:titles: titles
+
 include::songs.txt[]
-//include::donate.adoc[]
-include::share.adoc[]

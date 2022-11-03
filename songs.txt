@@ -4,14 +4,6 @@
 == *Songs and Links*
 
 [.text-center]
-ifdef::backend-html5[]
-image:button-pdf.png["Pdf", link=songs.pdf] 
-image:button-sets.png["Sets", link=sets.html]
-endif::[]
-
-- - -
-
-[.text-center]
 image:button-audio.png[Video]-SoundCloud
 image:button-band.png[Band]-Band-in-a-Box
 
@@ -27,7 +19,7 @@ image:button-video.png[Video]-Performance video
 
 - - -
 
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// --------------------------------------------------
 
 [cols="1*",stripes=odd]
 |=== 
