@@ -2,5 +2,3 @@
 
 = About Songs
 
-This is a private repository. It contains the programming for the Songs project page. There aren't any files or information to share, and therefore no reason to make this repository public.
-

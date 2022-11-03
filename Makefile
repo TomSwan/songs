@@ -3,6 +3,8 @@
 project=songs
 compiler=asciidoctor
 blddir=~/sites/tomswan/layouts/partials/pub
+pubdir=~/sites/tomswan/static/pub/songs
+imagedir=image
 shared=~/Dropbox/Shared
 
 targets=$(project).html
@@ -13,6 +15,7 @@ all: ${targets}
 	$(compiler) -D $(blddir) -s $<
 	$(compiler) $<
 	$(compiler)-pdf $<
+	rsync -avz $(imagedir)/ $(pubdir)/$(imagedir)
 	cp $(project).pdf $(shared)
 
 refresh:
