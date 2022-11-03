@@ -20,3 +20,4 @@ refresh:
 
 clean:
 	rm -v -f ${targets}
+	rm -v -f $(project).pdf
