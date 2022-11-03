@@ -1,7 +1,7 @@
-// songs.txt
+// songs.txt (Please read LICENSE.txt)
 
 [.text-center]
-== *Songs and Links*
+== Songs and Links
 
 [.text-center]
 image:button-audio.png[Video]-SoundCloud

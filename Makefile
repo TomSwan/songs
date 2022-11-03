@@ -16,7 +16,7 @@ all: ${targets}
 	cp $(project).pdf $(shared)
 
 refresh:
-	cp $(blddir)/songs.pdf ~/Dropbox/Shared
+	cp $(blddir)/$(project).pdf $(shared)
 
 clean:
 	rm -v -f ${targets}
