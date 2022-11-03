@@ -1,4 +1,9 @@
 // README.adoc
 
-= About Songs
+= Songs
 
+This repository contains the source code for the Songs page on my website (https://tomswan.com/). There aren't any files for downloading, just a lot of AsciiDoc text "include" files with links to here and there.
+
+Browse to the following link to open the published Songs page:
+
+Songs Page: link:https://tomswan.com/pub/songs/index.html[Open]
