@@ -1,3 +1,3 @@
 ^s| [big]#Playing for Time#
-image:button-chart.png[Chart, window=_blank, link=../downloads/playing-for-time.pdf]
+image:button-chart.png[Chart, window=_blank, link=data/playing-for-time.pdf]
 image:button-video.png[Video, window=_blank, link=https://www.youtube.com/watch?v=8P915Latb0g]

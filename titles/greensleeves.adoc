@@ -1,4 +1,3 @@
 ^s| [big]#Greensleeves#
-image:button-chart.png[Chart, window=_blank, link=data/greensleeves-CHART-20200831.pdf]
-image:button-midi.png[Audio, window=_blank, link=data/greensleeves-MIDI-20200831.wav]
+image:button-chart.png[Chart, window=_blank, link=data/greensleeves.pdf]
 image:button-video.png[Video, window=_blank, link=https://youtu.be/Q2%2D%2DYzU3zFc]
