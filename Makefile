@@ -21,7 +21,7 @@ all: ${targets}
 	cp $(project).pdf $(shared)
 
 refresh:
-	cp $(blddir)/$(project).pdf $(shared)
+	cp $(project).pdf $(shared)
 
 clean:
 	rm -v -f ${targets}
