@@ -1,2 +1,3 @@
-^s| [big]#You Are My Sunshine#
+^s| [big]#You Are My Funshine#
 image:button-lyrics.png[Lyrics, window=_blank, link=https://www.azlyrics.com/lyrics/geneautry/youaremysunshine.html]
+image:button-video.png[Video, window=_blank, link=https://www.youtube.com/watch?v=Qjx56JDcyjk]
