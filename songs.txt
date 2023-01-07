@@ -1,4 +1,4 @@
-// songs.txt (Please read LICENSE.txt)
+// songs.txt
 
 [.text-center]
 == Songs and Links

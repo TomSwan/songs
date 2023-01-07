@@ -1,4 +1,4 @@
-// songs.adoc (Please read LICENSE.txt)
+// songs.adoc
 
 :author: Tom Swan
 :email: <tom@tomswan.com>
