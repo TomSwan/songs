@@ -21,17 +21,23 @@ image:button-video.png[Video]-Performance video
 
 // --------------------------------------------------
 
+[.text-center]
+
+== BY TITLE
+
 [cols="1*",stripes=odd]
-|=== 
+|===
 
 include::{titles}/amazing-grace.adoc[]
 include::{titles}/and-i-love-her.adoc[]
+include::{titles}/babe-im-gonna-leave-you.adoc[]
 include::{titles}/bach-prelude-in-am.adoc[]
 include::{titles}/bach-prelude-no-one.adoc[]
 include::{titles}/blackbird.adoc[]
 include::{titles}/brown-eyed-girl.adoc[]
 include::{titles}/cast-your-fate-to-the-wind.adoc[]
 include::{titles}/classical-gas.adoc[]
+include::{titles}/dance-with-me.adoc[]
 include::{titles}/freight-train.adoc[]
 include::{titles}/georgia.adoc[]
 include::{titles}/greensleeves.adoc[]

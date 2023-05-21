@@ -2,10 +2,10 @@
 
 = About Songs
 
-This repository contains the source code for the Songs page on my website (https://tomswan.com/). A few chart PDFs and audio files can be found in the data folder. The rest of the files are just a lot of AsciiDoc text "includes" with links to here and there.
+This repository contains source code files for my website Songs page(https://tomswan.com/pub/songs). A few chart PDFs and audio files can be found in the associated data subfolder. Other files are mostly AsciiDoc text "includes" with links to charts, videos and lyrics (via azlyrics.com).
 
 == Songs Page
 
-Browse to the following address to open the published Songs page:
+Browse to the following address to open the published Songs page directly:
 
 Songs Page: link:https://tomswan.com/pub/songs/index.html[Open]
