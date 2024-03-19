@@ -4,7 +4,20 @@
 
 This repository contains source code files for my website Songs page(https://tomswan.com/pub/songs). A few chart PDFs and audio files can be found in the associated data subfolder. Other files are mostly AsciiDoc text "includes" with links to charts, videos and lyrics (via azlyrics.com).
 
-== Songs Page
+- - -
+
+// --------------------------------------------------
+
+=== To Do
+
+- [ ] add short video link to Dance With Me
+- [ ] update entire list
+
+- - -
+
+// --------------------------------------------------
+
+=== Songs Page
 
 Browse to the following address to open the published Songs page directly:
 

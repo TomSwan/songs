@@ -1,0 +1,5 @@
+^s| [big]#Jesu, Joy of Man's Desiring#
+image:button-new.png[New, window=_blank]
+image:button-chart.png[Chart, window=_blank, link=data/jesu.pdf]
+//image:button-midi.png[Midi, window=_blank, link=data/jesu.midi]
+//image:button-audio.png[Wav, window=_blank, link=data/jesu.wav]

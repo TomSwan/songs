@@ -21,6 +21,8 @@ image:button-video.png[Video]-Performance video
 
 // --------------------------------------------------
 
+// COUNT 2023-12-27 : 38
+
 [.text-center]
 
 == BY TITLE
@@ -32,8 +34,12 @@ include::{titles}/amazing-grace.adoc[]
 include::{titles}/and-i-love-her.adoc[]
 include::{titles}/babe-im-gonna-leave-you.adoc[]
 include::{titles}/bach-prelude-in-am.adoc[]
+include::{titles}/bach-invention-I.adoc[]
+include::{titles}/bach-invention-II.adoc[]
+include::{titles}/bach-invention-XIII.adoc[]
 include::{titles}/bach-prelude-no-one.adoc[]
 include::{titles}/blackbird.adoc[]
+include::{titles}/blue-bossa.adoc[]
 include::{titles}/brown-eyed-girl.adoc[]
 include::{titles}/cast-your-fate-to-the-wind.adoc[]
 include::{titles}/classical-gas.adoc[]
@@ -49,13 +55,20 @@ include::{titles}/honeybee.adoc[]
 include::{titles}/if-i-fell.adoc[]
 include::{titles}/in-your-own-sweet-way.adoc[]
 include::{titles}/joe-pass-dvd-blues.adoc[]
+include::{titles}/jesu.adoc[]
 include::{titles}/leo-brouwer-etude-no-one.adoc[]
 include::{titles}/leo-brouwer-etude-no-six.adoc[]
 include::{titles}/michelle.adoc[]
+include::{titles}/over-the-rainbow.adoc[]
 include::{titles}/playing-for-time.adoc[]
 include::{titles}/recuerdos-de-la-alhambra.adoc[]
 include::{titles}/romance-de-amor.adoc[]
 include::{titles}/scarborough-fair.adoc[]
+include::{titles}/sor-estudio-1.adoc[]
+include::{titles}/sor-estudio-2.adoc[]
+include::{titles}/sor-estudio-5.adoc[]
+include::{titles}/sor-estudio-6.adoc[]
+include::{titles}/stella-by-starlight.adoc[]
 include::{titles}/two-of-us.adoc[]
 include::{titles}/una-limosna-por-el-amor-de-dios.adoc[]
 include::{titles}/you-are-my-sunshine.adoc[]
