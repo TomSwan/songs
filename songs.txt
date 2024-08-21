@@ -33,6 +33,7 @@ image:button-video.png[Video]-Performance video
 include::{titles}/amazing-grace.adoc[]
 include::{titles}/and-i-love-her.adoc[]
 include::{titles}/babe-im-gonna-leave-you.adoc[]
+include::{titles}/bach-prelude-bwv998.adoc[]
 include::{titles}/bach-prelude-in-am.adoc[]
 include::{titles}/bach-invention-I.adoc[]
 include::{titles}/bach-invention-II.adoc[]
@@ -43,7 +44,6 @@ include::{titles}/blue-bossa.adoc[]
 include::{titles}/brown-eyed-girl.adoc[]
 include::{titles}/cast-your-fate-to-the-wind.adoc[]
 include::{titles}/classical-gas.adoc[]
-include::{titles}/dance-with-me.adoc[]
 include::{titles}/freight-train.adoc[]
 include::{titles}/georgia.adoc[]
 include::{titles}/greensleeves.adoc[]
@@ -73,5 +73,7 @@ include::{titles}/stella-by-starlight.adoc[]
 include::{titles}/two-of-us.adoc[]
 include::{titles}/una-limosna-por-el-amor-de-dios.adoc[]
 include::{titles}/you-are-my-sunshine.adoc[]
+
+
 
 |===
