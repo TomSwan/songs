@@ -8,15 +8,6 @@ This repository contains source code files for my website Songs page(https://tom
 
 // --------------------------------------------------
 
-=== To Do
-
-- [ ] add short video link to Dance With Me
-- [ ] update entire list
-
-- - -
-
-// --------------------------------------------------
-
 === Songs Page
 
 Browse to the following address to open the published Songs page directly:
