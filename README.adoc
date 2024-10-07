@@ -2,7 +2,7 @@
 
 = About Songs
 
-This repository contains source code files for my website Songs page(https://tomswan.com/pub/songs). A few chart PDFs and audio files can be found in the associated data subfolder. Other files are mostly AsciiDoc text "includes" with links to charts, videos and lyrics (via azlyrics.com).
+This repository contains source code files for my website Songs page at https://tomswan.com/pub/songs. A few chart PDFs and audio files can be found in the data subfolder. Other files are mostly AsciiDoc text "include" files with links to charts, videos and lyrics (via azlyrics.com).
 
 - - -
 

@@ -21,11 +21,8 @@ image:button-video.png[Video]-Performance video
 
 // --------------------------------------------------
 
-// COUNT 2024-03-18 : 42
-
-[.text-center]
-
-== BY TITLE
+//[.text-center]
+//== TITLES
 
 [cols="1*",stripes=odd]
 |===
@@ -74,6 +71,5 @@ include::{titles}/two-of-us.adoc[]
 include::{titles}/una-limosna-por-el-amor-de-dios.adoc[]
 include::{titles}/you-are-my-sunshine.adoc[]
 
-
-
 |===
+
