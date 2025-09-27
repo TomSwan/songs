@@ -2,7 +2,7 @@
 
 :author: Tom Swan
 :email: <tom@tomswan.com>
-:copyright: © 2023 by Tom Swan
+:copyright: © 2025 by Tom Swan
 :icons: font
 :sectanchors:
 :imagesdir: image
