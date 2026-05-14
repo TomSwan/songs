@@ -18,7 +18,7 @@ all: ${targets}
 	$(compiler)-pdf $<
 	rsync -avz $(datadir)/ $(pubdir)/$(datadir)
 	rsync -avz $(imagedir)/ $(pubdir)/$(imagedir)
-	cp $(project).pdf $(shared)
+#	cp $(project).pdf $(shared)
 
 refresh:
 	cp $(project).pdf $(shared)

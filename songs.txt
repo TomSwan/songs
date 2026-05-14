@@ -43,6 +43,7 @@ include::{titles}/blue-bossa.adoc[]
 include::{titles}/brown-eyed-girl.adoc[]
 include::{titles}/classical-gas.adoc[]
 //include::{titles}/dont-stop.adoc[]
+include::{titles}/freddie-freeloader.adoc[]
 include::{titles}/freight-train.adoc[]
 include::{titles}/georgia.adoc[]
 include::{titles}/greensleeves.adoc[]
@@ -75,6 +76,7 @@ include::{titles}/two-of-us-vocal.adoc[]
 //include::{titles}/una-limosna-por-el-amor-de-dios.adoc[]
 include::{titles}/when-you-wish.adoc[]
 include::{titles}/you-are-my-sunshine.adoc[]
+include::{titles}/your-mamma-dont-dance.adoc[]
 
 |===
 
